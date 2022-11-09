@@ -1,0 +1,25 @@
+{
+  "name": "enlance",
+  "version": "1.0.0",
+  "description": "Enlance is a full stack application where users can save links on their profiles and share them with others.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgarced/Enlance.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lgarced/Enlance/issues"
+  },
+  "homepage": "https://github.com/lgarced/Enlance#readme",
+  "dependencies": {
+    "next": "^13.0.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
