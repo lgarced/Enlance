@@ -1,0 +1,16 @@
+body {
+    font-family: 'SF Pro Text', 'SF Pro Icons', 'Helvetica Neue', 'Helvetica',
+      'Arial', sans-serif;
+    padding: 20px 20px 60px;
+    max-width: 680px;
+    margin: 0 auto;
+  }
+  
+  #nprogress .bar {
+    height: 4px !important;
+    background: red !important;
+}
+
+.nav a:hover {
+    border-radius: 0px;
+}
